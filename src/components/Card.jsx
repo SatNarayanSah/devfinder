@@ -116,6 +116,9 @@ const Card = () => {
           </div>
         </div>
       )}
+      <div className="text-cetner text-2xl font-bold tracking-widest ">
+        Developed by SatNaryan Sah
+      </div>
     </div>
   );
 };
